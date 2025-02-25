@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm Paul a front end developer</h1>
+<h1 align="left">Hi! I'm Paul  <p>💻 Frontend Developer</p> </h1>
 
 ###
 
@@ -45,7 +45,8 @@ If you like my work or experience, feel free to contact me. I'm interested in am
 ###
 
 <a href="https://www.linkedin.com/in/pablokuhn/" target="_blank" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="40" alt="linkedin logo"/>
+<p>Linkedin Profile</p>
 </a>
 
 ###
